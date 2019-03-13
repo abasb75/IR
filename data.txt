@@ -1,0 +1,6 @@
+Before Delete Characters :2771845
+After Delete Characters :2742445
+Befor Delete StopWord :2908938
+After Delete StopWord :2015861
+Before Stemming:1908641
+After Stemming:1908641
